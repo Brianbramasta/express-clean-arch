@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/rules.md",
+                "file": "rules/Visualisasi Diagram.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rules"
+              "title": "Visualisasi Diagram"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rules/rules.md",
+                "file": "rules/Visualisasi Diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rules/rules.md",
+                "file": "rules/Visualisasi Diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rules/rules.md",
+                "file": "rules/Visualisasi Diagram.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,8 +190,8 @@
   },
   "active": "8797bc68cd1c4237",
   "lastOpenFiles": [
-    "rules/Visualisasi Diagram.md",
     "rules/rules.md",
+    "rules/Visualisasi Diagram.md",
     "rules/Struktur & Blueprint.md"
   ]
 }
